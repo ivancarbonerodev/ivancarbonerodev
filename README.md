@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hola, soy Iván (Ivo)
 
-<!--
-**ivancarbonerodev/ivancarbonerodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+De programar AGVs en una fábrica de automoción a construir apps con IA — actualmente en formación en DAM (Desarrollo de Aplicaciones Multiplataforma) y buscando dar el salto a desarrollo full-time.
 
-Here are some ideas to get you started:
+🔭 Trabajando ahora mismo en: Studio32 (landing + automatizaciones para clínicas) y 01-limpia-galeria (herramienta de limpieza de fotos/vídeos duplicados)
+🌱 Aprendiendo: Java, SQL, arquitectura cloud (AWS), IA aplicada
+💼 Background: programación de AGVs (Hutchinson, sistemas LDK/ACE2000), operación de línea de producción
+🎯 Buscando: oportunidad como desarrollador junior — remoto o presencial
+📫 Contacto: [LinkedIn](https://www.linkedin.com/in/ivan-carbonero-bonilla-bb9576417/) · [correo](mailto:ivancarbonerodev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)

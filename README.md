@@ -2,7 +2,7 @@
 
 De programar AGVs en una fábrica de automoción a construir apps con IA — actualmente en formación en DAM (Desarrollo de Aplicaciones Multiplataforma) y buscando dar el salto a desarrollo full-time.
 
-🔭 Trabajando ahora mismo en: Studio32 (landing + automatizaciones para clínicas) y 01-limpia-galeria (herramienta de limpieza de fotos/vídeos duplicados)
+🔭 Trabajando ahora mismo en: Studio32 (landing + automatizaciones para clínicas) y 01-lista-familiar (herramienta para organizar alimentos en una familia)
 🌱 Aprendiendo: Java, SQL, arquitectura cloud (AWS), IA aplicada
 💼 Background: programación de AGVs (Hutchinson, sistemas LDK/ACE2000), operación de línea de producción
 🎯 Buscando: oportunidad como desarrollador junior — remoto o presencial
